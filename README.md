@@ -16,6 +16,46 @@
 </p>
 <img width="1920" height="1080" alt="CAPAS - PROJETOS (1)" src="https://github.com/user-attachments/assets/187fd527-2970-4c6e-ad64-04930f726057" />
 
+## 📚 Sumário
+
+1. [☀️ Introdução](#️-introdução)  
+   - Contexto  
+   - Objetivos do projeto  
+   - Escopo e relevância  
+
+2. [🔄 Pipeline do Projeto](#-pipeline-do-projeto)  
+   - Importação e tratamento de dados  
+   - Análise exploratória (EDA)  
+   - Balanceamento de classes (SMOTE)  
+   - Pré-processamento e engenharia de atributos  
+   - Modelagem supervisionada  
+   - Interpretabilidade (XAI)  
+   - Conclusões e recomendações  
+
+3. [🧪 Metodologia](#-metodologia)  
+   - Coleta e estruturação dos dados  
+   - Análise exploratória  
+   - Engenharia de atributos  
+   - Balanceamento  
+   - Modelagem e métricas  
+   - Explainable AI (SHAP)  
+   - Avaliação e comparação de modelos  
+
+4. [📊 Resultados e Conclusões](#-resultados-e-conclusões)  
+   - Distribuição da variável-alvo  
+   - Análise das variáveis numéricas  
+   - Correlações  
+   - Efeitos do microclima e manejo  
+   - Comparação de modelos preditivos  
+   - Conclusões gerais  
+
+5. [🧩 Considerações Finais](#-considerações-finais)  
+   - Principais aprendizados  
+   - Aplicações práticas  
+   - Próximos passos  
+
+6. [📞 Contato](#-contato)
+
 ## ☀️ Introdução
 
 A sobrevivência de mudas florestais é influenciada por uma série de fatores microclimáticos e práticas de manejo realizadas durante o plantio. Entender como variáveis como sombreamento, espécies companheiras, cobertura do solo, atraso no plantio e distância do centro de plantio afetam a taxa de sobrevivência pode gerar insights valiosos para aumentar a eficiência operacional e reduzir custos com replantio.
