@@ -15,46 +15,35 @@
   </a>
 </p>
 <img width="1920" height="1080" alt="CAPAS - PROJETOS (1)" src="https://github.com/user-attachments/assets/187fd527-2970-4c6e-ad64-04930f726057" />
-
 ## 📚 Sumário
 
 1. [☀️ Introdução](#️-introdução)  
-   - Contexto  
-   - Objetivos do projeto  
-   - Escopo e relevância  
-
+   - [🎯 Objetivo](#-objetivo)
 2. [🔄 Pipeline do Projeto](#-pipeline-do-projeto)  
-   - Importação e tratamento de dados  
-   - Análise exploratória (EDA)  
-   - Balanceamento de classes (SMOTE)  
-   - Pré-processamento e engenharia de atributos  
-   - Modelagem supervisionada  
-   - Interpretabilidade (XAI)  
-   - Conclusões e recomendações  
-
-3. [🧪 Metodologia](#-metodologia)  
-   - Coleta e estruturação dos dados  
-   - Análise exploratória  
-   - Engenharia de atributos  
-   - Balanceamento  
-   - Modelagem e métricas  
-   - Explainable AI (SHAP)  
-   - Avaliação e comparação de modelos  
-
-4. [📊 Resultados e Conclusões](#-resultados-e-conclusões)  
-   - Distribuição da variável-alvo  
-   - Análise das variáveis numéricas  
-   - Correlações  
-   - Efeitos do microclima e manejo  
-   - Comparação de modelos preditivos  
-   - Conclusões gerais  
-
-5. [🧩 Considerações Finais](#-considerações-finais)  
-   - Principais aprendizados  
-   - Aplicações práticas  
-   - Próximos passos  
-
+3. [🧪 Metodologia](#-metodologia)
+   - [1. Coleta e Tratamento de Dados](#1-coleta-e-tratamento-de-dados)
+   - [2. Análise Exploratória de Dados (EDA)](#2-análise-exploratória-de-dados-eda)
+   - [3. Engenharia de Atributos](#3-engenharia-de-atributos)
+   - [4. Balanceamento com SMOTE](#4-balanceamento-com-smote)
+   - [5. Modelagem Supervisionada](#5-modelagem-supervisionada)
+   - [6. Interpretabilidade com Explainable-AI](#6-interpretabilidade-com-explainable-ai)
+   - [7. Comparação e Conclusão](#7-comparação-e-conclusão)
+4. [📊 Resultados e Conclusões](#-resultados-e-conclusões)
+   - [🎯 Distribuição da Variável-Alvo](#-distribuição-da-variável-alvo)
+   - [🌿 Distribuição das Variáveis Numéricas](#-distribuição-das-variáveis-numéricas)
+   - [🔍 Boxplots Gerais das Variáveis](#-boxplots-gerais-das-variáveis)
+   - [🔗 Matriz de Correlação](#-matriz-de-correlação)
+   - [🌡️ Efeito das Variáveis de Microclima](#-efeito-das-variáveis-de-microclima)
+   - [🌳 Taxa de Sobrevivência por Gênero](#-taxa-de-sobrevivência-por-gênero)
+   - [🧭 Relação entre Distância e Sobrevivência](#-relação-entre-distância-e-sobrevivência)
+   - [🤖 Comparação de Modelos Preditivos](#-comparação-de-modelos-preditivos)
+   - [🧩 Conclusões Gerais](#-conclusões-gerais)
+5. [🧩 Considerações Finais](#-considerações-finais)
+   - [Pontos de Destaque](#pontos-de-destaque)
+   - [Limitações e Melhorias](#limitações-e-melhorias)
+   - [Próximos Passos](#próximos-passos)
 6. [📞 Contato](#-contato)
+
 
 ## ☀️ Introdução
 
